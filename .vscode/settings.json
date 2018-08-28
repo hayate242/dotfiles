@@ -1,5 +1,31 @@
 {
-    "files.associations": {
-        "string.h": "c"
-    }
+    "sync.gist": "79cb25acdc508957ed9067892233d32d",
+    "sync.lastUpload": "2018-07-02T03:49:24.383Z",
+    "sync.autoDownload": true,
+    "sync.autoUpload": true,
+    "sync.lastDownload": "2018-06-22T19:39:46.916Z",
+    "sync.forceDownload": false,
+    "sync.host": "",
+    "sync.pathPrefix": "",
+    "sync.quietSync": false,
+    "sync.askGistName": false,
+    "sync.removeExtensions": true,
+    "sync.syncExtensions": true,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "editor.tabSize": 4,
+    "explorer.confirmDragAndDrop": false,
+    "runner.languageMap": {
+        "c": "/Users/hayate/VisualCodeRunner/crun_gcc.sh"
+    },
+    "explorer.confirmDelete": false
 }
